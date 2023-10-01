@@ -39,6 +39,6 @@
 
 ![ddd](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/63206c30-19bf-40c0-a999-026a2192725d)
 
-![dddww.png](4week%20a33c785273834da4a6a51956a79cf42a/dddww.png)
+![dddww](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/f682f1d9-69fe-4753-95b5-a1d33df4a603)
 
 실행은 되지만 가독성이 떨어지네. 웬만하면 중첩해서 사용하는 걸 지양해야겠다.

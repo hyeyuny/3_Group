@@ -16,7 +16,7 @@
 
 ![KakaoTalk_20230930_223733879_01](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/f9ace98f-0399-400d-9a7c-617fb69da4ce)
 
-![KakaoTalk_20230930_223733879.png](4week%20a33c785273834da4a6a51956a79cf42a/KakaoTalk_20230930_223733879.png)
+![KakaoTalk_20230930_223733879](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/3a213522-8a4d-463e-80be-81e470dac631)
 
 <aside>
 💡  이렇게 말이야?

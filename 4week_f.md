@@ -14,7 +14,7 @@
 
 아니, 1을 제외한 특정 숫자를 증가 또는 감소시키는 연산자는 없다. 대신 축약 연산자를 사용하면 우리가 원하는 결과를 도출할 수 있을 것 같아.
 
-![KakaoTalk_20230930_223733879_01.png](4week%20a33c785273834da4a6a51956a79cf42a/KakaoTalk_20230930_223733879_01.png)
+![KakaoTalk_20230930_223733879_01](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/f9ace98f-0399-400d-9a7c-617fb69da4ce)
 
 ![KakaoTalk_20230930_223733879.png](4week%20a33c785273834da4a6a51956a79cf42a/KakaoTalk_20230930_223733879.png)
 

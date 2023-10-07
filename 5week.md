@@ -28,7 +28,7 @@ if-else if문이 대체할 수 있는 것 같아. 예제에 나왔던 코드를 
 
 위의 사진은 if-else if문을 사용한 코드야
 
-![5-3.png](5week%2089a82c02c7664219aa5ec790b4168eba/5-3.png)
+![5-3](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/f22093f8-d7b1-4601-b6ee-68f9ea83fff5)
 
 두 개의 코드를 실행해봤더니 출력 화면이 똑같으므로 switch~case문과 if-else if문은 대체가 가능해
 

@@ -11,7 +11,7 @@
 
 </aside>
 
-다중 if문을 사용했을 때, 다중 if문을 사용하지 않았을 때보다 조건문의 구조가 명확하게 드러나므로 이해하기 쉽고 조건을 유연하게 조정하기 쉬워
+다중 if문을 사용했을 때, 다중 if문을 사용하지 않았을 때보다 조건문의 구조가 명확하게 드러나므로 이해하기 쉽고 조건을 유연하게 조정하기 쉬워.
 
 <aside>
 💡 switch~case문을 대체할 수 있는 다른 패턴이나 방식이 있을까?
@@ -26,11 +26,11 @@ if-else if문이 대체할 수 있는 것 같아. 예제에 나왔던 코드를 
 
 ![5-2](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/4501dbfc-80cd-4717-96fd-3eea39b3c3a5)
 
-위의 사진은 if-else if문을 사용한 코드야
+위의 사진은 if-else if문을 사용한 코드야.
 
 ![5-3](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/f22093f8-d7b1-4601-b6ee-68f9ea83fff5)
 
-두 개의 코드를 실행해봤더니 출력 화면이 똑같으므로 switch~case문과 if-else if문은 대체가 가능해
+두 개의 코드를 실행해봤더니 출력 화면이 똑같으므로 switch~case문과 if-else if문은 대체가 가능해.
 
 <aside>
 💡 역시 대체가 가능하구나! 근데 switch~case문에서 각 case 블록의 마지막에 왜 break문을 사용하는 것이 일반적인 걸까?
@@ -47,7 +47,7 @@ if-else if문이 대체할 수 있는 것 같아. 예제에 나왔던 코드를 
 나는 실행이 안 될 것 같다고 생각해. break문이 없으면 코드를 실행했을 때 switch문을 빠져나가지 못하니까 실패한 빌드라고 뜨지 않을까?
 
 <aside>
-💡 우리 한번 실행을 해보자
+💡 우리 한번 실행을 해보자.
 
 ![5-4](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/b5d4da1d-fec2-4a93-8ebf-3673962b1f4a)
 

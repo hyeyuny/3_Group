@@ -51,7 +51,7 @@ if-else if문이 대체할 수 있는 것 같아. 예제에 나왔던 코드를 
 
 ![5-4](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/b5d4da1d-fec2-4a93-8ebf-3673962b1f4a)
 
-![5-5.png](5week%2089a82c02c7664219aa5ec790b4168eba/5-5.png)
+![5-5](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/5c7a4b0c-e628-4147-8e62-7e8d1ecdd3d0)
 
 </aside>
 

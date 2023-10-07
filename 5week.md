@@ -20,7 +20,7 @@
 
 if-else if문이 대체할 수 있는 것 같아. 예제에 나왔던 코드를 수정해서 실행해보자.
 
-![5-1.png](5week%2089a82c02c7664219aa5ec790b4168eba/5-1.png)
+![5-1](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/d64e43c1-5266-4f86-82d3-fc67a400f763)
 
 위의 사진은 switch-case문을 사용한 코드고,
 

@@ -16,7 +16,7 @@
 
 **A.** 1부터 10까지 더하거나, 7부터 17까지 더하는 건 매커니즘 똑같기 때문에 이를 이용하면 함수를 정의할 수 있어. 메인 함수에서 함수의 이름을 integral로 지정해뒀으니 이걸 그대로 사용하자. 변수 start와 end를 선언하고, 함수를 정의하면 돼. 합인 sum을 0으로 선언하고, 변수 하나를 추가로 선언해줘. 우리는 합을 구하고 싶은 거니까 반복문을 이용하자. for문을 이용하여 start부터 end까지의 모든 정수를 순회할거야. 이때 i는 순회하는 각각의 정수를 의미해. For문 내에서 sum에 i를 더해 최종적으로 계산된 sum을 반환하는거지. 결과적으로 이 함수는 start부터 end까지의 모든 정수의 합을 계산하고 그 결과를 반환하는 역할을 해.
 
-(https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/74cd4d7d-ba94-459e-97d0-c7af802312d0)
+![1](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/74cd4d7d-ba94-459e-97d0-c7af802312d0)
 
 ![Untitled](9week%20d9c5485138e34a6fbc86212183e038b5/Untitled%201.png)
 

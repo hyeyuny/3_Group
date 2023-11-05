@@ -18,7 +18,7 @@
 
 ![1](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/74cd4d7d-ba94-459e-97d0-c7af802312d0)
 
-![Untitled](9week%20d9c5485138e34a6fbc86212183e038b5/Untitled%201.png)
+![2](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/9b187e04-766c-40a8-b845-7592914e9ab3)
 
 아 그럼 코드의 중복성도 줄이고 가독성을 높여 함수를 사용하지 않았을 때보다 훨씬 효율적이겠구나.
 

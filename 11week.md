@@ -50,7 +50,7 @@ int main()
     Sorting(b, size);
     printf("최대값 = %d\n", Max(b, size));
     printf("최소값 = %d\n", Min(b, size));
-    printf("정렬 = ");
+    printf("내림차순 정렬 = ");
     for (int i = 0; i < size; i++) {
         printf("%d ", b[i]);
     }

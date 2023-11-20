@@ -59,4 +59,5 @@ int main()
 ```
 
 ### **<실행결과>**
-![image](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/e911d20c-7e16-4584-9e7f-88f531145d1e)
+![image](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/6a2de0e0-8642-4658-a2a1-061bffa21a71)
+

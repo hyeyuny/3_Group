@@ -43,7 +43,7 @@ ThreeDime* pA1 = &A1;
 
  예제 11-6을 천천히 살펴보자. struct ThreeDime는 3차원 공간에서의 한 점을 나타내는 구조체를 정의해. 이 구조체는 x, y, z라는 이름을 가진 세 개의 double 타입 변수를 가지고 있어. 이 세 변수는 각각 3차원 공간에서의 x, y, z 좌표를 나타내.
 
- typedef struct ThreeDime ThreeDime;는 struct ThreeDime을 ThreeDime이라는 새로운 자료형으로 정의해. 이렇게 하면 코드를 작성할 때 struct ThreeDime 대신 ThreeDime으로 간단히 사용할 수 있어.
+ typedef struct ThreeDime ThreeDime;는 struct ThreeDime을 ThreeDime이라는 새로운 자료형으로 정의해. 이렇게 하면 코드를 작성할 때 struct ThreeDime 대신 ThreeDime으로 간단히 사용할 수 있어. 앞서 다룬 내용과 동일한 내용이지?
 
  그 다음main 함수에서는 ThreeDime 타입의 변수 A1을 선언하고, 이 변수에 {3, 1, 8}이라는 값을 초기화해. 이는 3차원 공간에서의 한 점을 나타내며, x, y, z 좌표는 각각 3, 1, 8이야.
 

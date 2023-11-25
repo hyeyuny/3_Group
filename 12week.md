@@ -82,7 +82,7 @@ printf("변경 후 3차원 점 A1의 x : %.2lf, y : %.2lf, z : %.2lf\n", pA1->x,
 return 0;
 }
 ```
-
+![1](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/e907d9d8-bb45-4b6d-98f5-b109abe12491)
 이렇게 말이야. 그러면 `pA1`이 가리키는 구조체의 x, y, z 멤버 값을 각각 5.0, 2.0, 9.0으로 변경돼.
 
 <aside>

@@ -154,9 +154,9 @@ return 0;
 
 흠, 그럼 이걸 실행해볼래?
 
-![1.png](13week%2029db0b6a2a784f17a01f1db18d1c77dd/1.png)
+![1](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/31eb420c-e4e3-47ff-8731-95df5dd5329e)
+![2](https://github.com/hyeyuny/C_pg-3_group-notes-note-1/assets/144858340/bb57a3d0-7ad6-4aad-a0ef-afeb83dcdbee)
 
-![2.png](13week%2029db0b6a2a784f17a01f1db18d1c77dd/2.png)
 
 <aside>
 💡 실행결과는 같지만 메모장엔 우리가 원하는 결과가 작성되지 않았어. 왜 그런거야?
